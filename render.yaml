@@ -1,6 +1,6 @@
 services:
 - type: web
-  repo: https://github.com/Prabesh01/nepalstock-api
+  repo: https://github.com/ashokpds15/nepalstock-api
   name: nepalstock-api
   plan: free
   branch: main
