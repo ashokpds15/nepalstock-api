@@ -1,7 +1,6 @@
 # nepalstock-api
 
-Public version of [nepalstock-api](https://nepalstock.onrender.com/info).<br>
-Used Authorization Bypass code from [NepseUnofficialApi](https://github.com/basic-bgnr/NepseUnofficialApi)
+Public version of [nepalstock-api](https://nepse-api-2rqo.onrender.com/info).<br>
 
 ## How does this work?
 - You visit nepalstock.onrender.com/something/somehting/
@@ -17,7 +16,7 @@ Used Authorization Bypass code from [NepseUnofficialApi](https://github.com/basi
 ## Deploy
 Instead of using nepalstock.onrender.com, you can deploy it yourself on [render](https://render.com/):
 
-<a href="https://render.com/deploy?repo=https://github.com/Prabesh01/nepalstock-api">
+<a href="https://render.com/deploy?repo=https://github.com/ashokpds15/nepalstock-api">
   <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 
