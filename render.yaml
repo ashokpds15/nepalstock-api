@@ -1,9 +1,9 @@
 services:
 - type: web
   repo: https://github.com/ashokpds15/nepalstock-api
-  name: nepalstock-api
+  name: nepse-api
   plan: free
-  branch: main
+  branch: master
   rootDir: .
   region: singapore
   env: python
